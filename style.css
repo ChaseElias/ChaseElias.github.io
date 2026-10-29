@@ -1,5 +1,5 @@
 body {
-    background-image: image-set(url(bilder/High_Quality.jpg));
+    background-image: url(bilder/High_Quality.jpg);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
